@@ -1,6 +1,6 @@
 
 ## **MTech 1st Semester Coursework**
-Welcome to the repository for the coursework of my MTech 1st semester at [University Name]! This repository contains a collection of materials for 5 courses, including lab exercises, assignments, notes, slides, reference books, and other useful resources.
+Welcome to the repository for the coursework of my MTech 1st semester at Amrita School Of Engineering, Bengaluru, India ! This repository contains a collection of materials for 5 courses, including lab exercises, assignments, notes, slides, reference books, and other useful resources.
 
 ### **Courses**
 The following courses are included in this repository:
